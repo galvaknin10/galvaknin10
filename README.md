@@ -20,7 +20,9 @@ Feel free to explore my repos and check out what I’ve been working on!
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/galvaknin10)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:gal9846@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:gal9846@gmail.com)  
+📬 gal9846@gmail.com
+
 
 --- 
 ###
