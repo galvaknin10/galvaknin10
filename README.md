@@ -10,7 +10,6 @@
 Currently enrolled in a B.Sc. in Computer Science, now in my 3rd year at HIT.  
 I enjoy building full-stack applications and 
 delivering professional, real-world solutions. Passionate about working with AI tools and modern technologies.  
-Actively looking for my first opportunity in software development or QA.  
 Feel free to explore my repos and check out what I’ve been working on!
 
 </div>
